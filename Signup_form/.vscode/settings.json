@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "nwhazdrp7hdpd4a4.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
+            "port": 3306,
+            "driver": "MySQL",
+            "name": "GirlHacks2024",
+            "database": "c4igi7tpxy3ziyxq",
+            "username": "ytixpdyyrubi9kz1",
+            "password": "qm2qamyabrypa27k"
+        }
+    ]
+}

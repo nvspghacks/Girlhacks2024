@@ -1,0 +1,15 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "mysql://ytixpdyyrubi9kz1:qm2qamyabrypa27k@nwhazdrp7hdpd4a4.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/c4igi7tpxy3ziyxq",
+            "driver": "MySQL",
+            "name": "users",
+            "connectString": "mysql://ytixpdyyrubi9kz1:qm2qamyabrypa27k@nwhazdrp7hdpd4a4.cbetxkdyhwsb.us-east-1.rds.amazonaws.com:3306/c4igi7tpxy3ziyxq"
+        }
+    ]
+}
